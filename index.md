@@ -4,4 +4,4 @@ title: ""
 ---
 
 <h1>Welcome to my blog!</h1>
-This is my Arduino traffic light project and more will come!
+I decided to share my journey into coding, 3D printing, and software engineering - let’s dive in together!
